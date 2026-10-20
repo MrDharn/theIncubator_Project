@@ -4,7 +4,7 @@
 
 import { referenceCode } from '../src/domain/ids.js';
 
-const BOOKINGS = 100_000;
+const BOOKINGS = 200_000;
 const LOOKUPS = 500;
 
 const list = [];
